@@ -1,0 +1,7 @@
+C:\Users\MEGA\Angular\clientes-app
+
+spring.datasource.url=jdbc:mysql://localhost:3306/appcursos
+spring.datasource.username=root
+spring.datasource.password=root
+
+soy bkn
